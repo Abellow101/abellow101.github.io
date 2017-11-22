@@ -4,13 +4,13 @@ body {
 }
 #header {
   background-color: #4A4A4A;
-  height: 150px;
-  line-height: 150px;
+  height: 150em;
+  line-height: 150em;
 }
 #header-title {
   display: block;
   float: left;
-  font-size: 10px;
+  font-size: 10em;
   font-weight: bold;
 }
 #header-nav {
@@ -20,12 +20,12 @@ body {
 }
 #header-nav li {
   display: inline;
-  padding-left: 20px;
+  padding-left: 20em;
 }
 .contain {
-  max-width: 1000px;
+  max-width: 100em;
   margin: 0px auto;
-  font-size: 100px;
+  font-size: 100em;
 }
 #header a {
   color: white;
@@ -33,17 +33,17 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 100;
-  margin-left: 40px;
+  margin-left: 40em;
 }
 #header a:hover {
   color: #333;
 }
 #footer{
   background-color: #000000;
-  padding: 50px;
+  padding: 50em;
 }
 .column {
-  min-width: 300px;
+  min-width: 300em;
   display: inline-block;
   vertical-align: top;
 }
@@ -63,9 +63,9 @@ a hover{
   color: #F6A623;
 }
 .post, about {
-  max-width: 800px;
+  max-width: 800em;
   margin:0 auto;
-  padding: 60px 0;
+  padding: 60em 0;
 }
 h1, h2, h3, h4 {
   color: #333
@@ -77,12 +77,12 @@ p {
   400,700);
 
 .post-title {
-  font-size: 40px;
-  margin-left: -200px;
-  margin-top: -40px;
+  font-size: 40em;
+  margin-left: -200em;
+  margin-top: -40em;
 }
 .t1 {
-  font-size: 20px;
-  margin-left: -180px;
-  margin-top: -30px;
+  font-size: 20em;
+  margin-left: -18em;
+  margin-top: -30em;
 }
