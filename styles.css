@@ -78,11 +78,11 @@ p {
 
 .post-title {
   font-size: 40px;
-  margin-left: -150em;
+  margin-left: -150px auto;
   margin-top: -40px;
 }
 .t1 {
   font-size: 20px;
-  margin-left: -130em;
+  margin-left: -130px auto;
   margin-top: -30px;
 }
